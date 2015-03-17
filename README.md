@@ -7,6 +7,6 @@ Liberamente ispirata alla guida di stile della collana Make:
 
 Grammatica, punteggiatura, etc.
 
-Tipografia e convenzioni sui font
+[Tipografia e convenzioni sui font](tipografiaConvenzioniFont.md)
 
 Elenco dei termini
