@@ -5,7 +5,7 @@ Liberamente ispirata alla guida di stile della collana Make:
 
 [Regole generali](regoleGenerali.md)
 
-Grammatica, punteggiatura, etc.
+[Grammatica, punteggiatura, etc.](grammaticaPunteggiatura.md)
 
 [Tipografia e convenzioni sui font](tipografiaConvenzioniFont.md)
 
