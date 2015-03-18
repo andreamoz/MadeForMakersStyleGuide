@@ -8,4 +8,9 @@ Sabato e domenica formano il plurale regolarmente come gli altri nomi maschili i
 
 (fonte: [Accademia della Crusca](http://www.accademiadellacrusca.it/it/lingua-italiana/consulenza-linguistica/domande-risposte/alcuni-quesiti-nomi-mesi-giorni-settimana)
 
+
+## Date e numeri
+
+* I numeri al di sotto del 10 vanno scritti per esteso (es. cinque mele), a meno che compaiano in una frase con numeri dal 10 in su (es. 5 mele e 100 arance). I numeri negativi si scrivono sempre come cifre (es. -12).
+
 [Torna all'indice](README.md)
