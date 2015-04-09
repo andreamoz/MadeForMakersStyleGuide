@@ -11,6 +11,7 @@ La prima volta che si usa un acronimo nel testo deve essere citato per intero, a
 
 ## Titoli
 Solo la prima parola dei titoli ha l'iniziale maiuscola, a meno che ci siano delle parole che indicano nomi propri (persone, prodotti, aziende, etc) per le quali l'iniziale maiuscola (o la lettera maiuscola in genere) viene preservata. Ad esempio si scrive "I trucchi per la stampa" o "Alternative ad Arduino", ma anche "I trucchi per la stampa 3D".
+
 Non si usa invece lo stile tipicamente americano che prevede tutti i nomi e gli aggettivi in maiuscolo: non usare titoli come "Trucchi per Stampe 3D Sempre Perfette", ma "Trucchi per stampe 3D sempre perfette".
 
 [Torna all'indice](README.md)
