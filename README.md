@@ -9,4 +9,4 @@ Liberamente ispirata alla guida di stile della collana Make:
 
 [Tipografia e convenzioni sui font](tipografiaConvenzioniFont.md)
 
-Elenco dei termini
+[Elenco dei termini](termini.md)
