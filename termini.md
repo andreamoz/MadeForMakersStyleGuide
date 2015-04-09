@@ -1,8 +1,8 @@
-# Regole generali
+# Elenco dei termini
 
-## Abbreviazioni e acronimi
+## I
 
-* La prima volta che si usa un acronimo nel testo deve essere citato per intero, ad esempio in "Centro Elaborazione Dati (CED)". Da quel punto in avanti è sufficiente usare l'acronimo, a meno che ci sia il rischio di confusione o abbia più senso usare la definizione completa. Gli acronimi sono normalmente definiti una sola volta per libro.
-Se l'acronimo deriva da un termine in lingua straniera va indicato, con la rispettiva traduzione, ad esempio in "ambiente di sviluppo integrato (IDE, dall'inglese Integrated Development Environment)". I testi in lingua straniera seguono le [convenzioni relative](tipografiaConvenzioniFont.md#linguaStraniera).
+### Internet
+Quando si parla di una rete di reti generica si usa l'iniziale minuscola (internet). Quando invece si parla della rete delle reti si usa l'iniziale maiuscola (Internet). Dato che nella maggioranza dei casi con il termine si intende questa seconda accezione, la scrittura "Internet" è quella predefinita.
 
 [Torna all'indice](README.md)
