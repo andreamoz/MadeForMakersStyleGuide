@@ -20,10 +20,10 @@ Per i collegamenti ipertestuali è sempre necessario indicare esplicitamente l'UR
 Le definizioni sono composte da due parti: un [titolo](titoloDefinizione), che rappresenta il termine in oggetto, e la [definizione](definizione) vera e propria, che lo definisce e lo descrive.
 
 # Enfasi
-Per dare enfasi a un elemento all'interno di una frase si usa lo stile "Testo corsivo", ad esempio "posizionando le sonde in punti che **non** dovrebbero essere connessi".
+Per dare enfasi a un elemento all'interno di una frase si usa lo stile [Testo corsivo](evidenza), ad esempio "posizionando le sonde in punti che *non* dovrebbero essere connessi".
 
 ## Nuovi termini
-Ogni volta che si introduce un termine significativo dobbiamo indicarlo in [grassetto](primaIstanzaNome).
+Ogni volta che si introduce un termine significativo dobbiamo indicarlo in **grassetto** con lo stile [Testo bold](primaIstanzaNome).
 
 ## Titoli
 Solo la prima parola dei titoli ha l'iniziale maiuscola, a meno che ci siano delle parole che indicano nomi propri (persone, prodotti, aziende, etc) per le quali l'iniziale maiuscola (o la lettera maiuscola in genere) viene preservata. Ad esempio si scrive "I trucchi per la stampa" o "Alternative ad Arduino", ma anche "I trucchi per la stampa 3D".
