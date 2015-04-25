@@ -7,6 +7,7 @@ Tipo di elemento | Nome dello stile
 <a name="definizione"></a>Definizione e descrizione di un termine o di un titolo | Definizione
 <a name="evidenza"></a>Parte di una frase da evidenziare | Testo corsivo
 <a name="linguaStraniera"></a>Testi in lingua straniera | Testo corsivo
+<a name="libro"></a>Titoli di libri | Testo corsivo
 <a name="titoloDefinizione"></a>Termine di cui dare una definizione | Titolo definizione
 <a name="primaIstanzaNome"></a>Prima apparizione di un termine notevole | Testo bold
 
@@ -19,8 +20,11 @@ Per i collegamenti ipertestuali è sempre necessario indicare esplicitamente l'UR
 ## Definizioni
 Le definizioni sono composte da due parti: un [titolo](titoloDefinizione), che rappresenta il termine in oggetto, e la [definizione](definizione) vera e propria, che lo definisce e lo descrive.
 
-# Enfasi
+## Enfasi
 Per dare enfasi a un elemento all'interno di una frase si usa lo stile [Testo corsivo](evidenza), ad esempio "posizionando le sonde in punti che *non* dovrebbero essere connessi".
+
+## Libri
+I titoli dei libri citati vanno messi in corsivo usando lo stile [Testo corsivo](libro).
 
 ## Nuovi termini
 Ogni volta che si introduce un termine significativo dobbiamo indicarlo in **grassetto** con lo stile [Testo bold](primaIstanzaNome).
