@@ -24,7 +24,7 @@ Le definizioni sono composte da due parti: un [titolo](titoloDefinizione), che r
 Per dare enfasi a un elemento all'interno di una frase si usa lo stile [Testo corsivo](evidenza), ad esempio "posizionando le sonde in punti che *non* dovrebbero essere connessi".
 
 ## Libri
-I titoli dei libri citati vanno messi in corsivo usando lo stile [Testo corsivo](libro).
+I titoli dei libri citati vanno messi *in corsivo* usando lo stile [Testo corsivo](libro).
 
 ## Nuovi termini
 Ogni volta che si introduce un termine significativo dobbiamo indicarlo in **grassetto** con lo stile [Testo bold](primaIstanzaNome).
