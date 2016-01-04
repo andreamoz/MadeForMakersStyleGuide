@@ -4,7 +4,9 @@ La tabella mostra le convenzioni base usate nei testi della collana. I nomi degl
 
 Tipo di elemento | Nome dello stile
 -----------------|-----------------
+<a name="combinazioneTasti"</a>Combinazione di tasti | Code carattere
 <a name="definizione"></a>Definizione e descrizione di un termine o di un titolo | Definizione
+<a name="descrizioneElementoSoftware"</a>Descrizione di elementi del software | Testo corsivo
 <a name="evidenza"></a>Parte di una frase da evidenziare | Testo corsivo
 <a name="linguaStraniera"></a>Testi in lingua straniera | Testo corsivo
 <a name="libro"></a>Titoli di libri | Testo corsivo
@@ -12,13 +14,15 @@ Tipo di elemento | Nome dello stile
 <a name="primaIstanzaNome"></a>Prima apparizione di un termine notevole | Testo bold
 <a name="primaIstanzaSoftware"></a>Prima apparizione del nome di un software significativo | Testo bold
 <a name="voceMenu"></a>Voce di menu | Testo corsivo
-<a name="combinazioneTasti"</a>Combinazione di tasti | Code carattere
 
 ## Collegamenti ipertestuali
 Per i collegamenti ipertestuali è sempre necessario indicare esplicitamente l'URL, quindi scriveremo "Tutto il codice si può trovare all'indirizzo https://github.com/katehartman/Make-Wearable-Electronics". Nei casi in cui all'URL si accompagni una descrizione vanno indicate entrambe le cose, mettendo l'URL tra parentesi: "Tutto il codice si può trovare sul repository Github dell'autrice (https://github.com/katehartman/Make-Wearable-Electronics)". Vanno invece evitate le formule "Tutto il codice si può trovare sul repository Github dell'autrice all'indirizzo https://github.com/katehartman/Make-Wearable-Electronics".
 
 ## Definizioni
 Le definizioni sono composte da due parti: un [titolo](titoloDefinizione), che rappresenta il termine in oggetto, e la [definizione](definizione) vera e propria, che lo definisce e lo descrive.
+
+## Descrizione di elementi del software
+Gli elementi che compongono l'interfaccia di un software sono indicati con lo stile [Testo corsivo](descrizioneElementoSoftware), ad esempio "fare un clic sul pulsante *Avanti*".
 
 ## Enfasi
 Per dare enfasi a un elemento all'interno di una frase si usa lo stile [Testo corsivo](evidenza), ad esempio "posizionando le sonde in punti che *non* dovrebbero essere connessi".
