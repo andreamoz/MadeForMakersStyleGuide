@@ -11,6 +11,8 @@ Tipo di elemento | Nome dello stile
 <a name="titoloDefinizione"></a>Termine di cui dare una definizione | Titolo definizione
 <a name="primaIstanzaNome"></a>Prima apparizione di un termine notevole | Testo bold
 <a name="primaIstanzaSoftware"></a>Prima apparizione del nome di un software significativo | Testo bold
+<a name="voceMenu"></a>Voce di menu | Testo corsivo
+<a name="combinazioneTasti"</a>Combinazione di tasti | Code carattere
 
 ## Collegamenti ipertestuali
 Per i collegamenti ipertestuali è sempre necessario indicare esplicitamente l'URL, quindi scriveremo "Tutto il codice si può trovare all'indirizzo https://github.com/katehartman/Make-Wearable-Electronics". Nei casi in cui all'URL si accompagni una descrizione vanno indicate entrambe le cose, mettendo l'URL tra parentesi: "Tutto il codice si può trovare sul repository Github dell'autrice (https://github.com/katehartman/Make-Wearable-Electronics)". Vanno invece evitate le formule "Tutto il codice si può trovare sul repository Github dell'autrice all'indirizzo https://github.com/katehartman/Make-Wearable-Electronics".
