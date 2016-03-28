@@ -10,6 +10,8 @@ Tipo di elemento | Nome dello stile
 <a name="evidenza"></a>Parte di una frase da evidenziare | Testo corsivo
 <a name="linguaStraniera"></a>Testi in lingua straniera | Testo corsivo
 <a name="libro"></a>Titoli di libri | Testo corsivo
+<a name="sezioneLibro"></a>Sezioni di libri | Testo corsivo
+<a name="nomiFile"></a>Nomi di file | Code carattere
 <a name="titoloDefinizione"></a>Termine di cui dare una definizione | Titolo definizione
 <a name="primaIstanzaNome"></a>Prima apparizione di un termine notevole | Testo bold
 <a name="primaIstanzaSoftware"></a>Prima apparizione del nome di un software significativo | Testo bold
@@ -29,6 +31,9 @@ Per dare enfasi a un elemento all'interno di una frase si usa lo stile [Testo co
 
 ## Libri
 I titoli dei libri citati vanno messi *in corsivo* usando lo stile [Testo corsivo](libro).
+
+## Sezioni di libri
+Quando si fa riferimento a una particolare sezione di un libro (anche del libro corrente) questa va indicata *in corsivo* usando lo stile [Testo Corsivo](sezioneLibro).
 
 ## Nuovi termini
 Ogni volta che si introduce un termine significativo dobbiamo indicarlo in **grassetto** con lo stile [Testo bold](primaIstanzaNome).
