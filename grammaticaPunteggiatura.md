@@ -12,4 +12,8 @@ Sabato e domenica formano il plurale regolarmente come gli altri nomi maschili i
 
 * I numeri al di sotto del 10 vanno scritti per esteso (es. cinque mele), a meno che compaiano in una frase con numeri dal 10 in su (es. 5 mele e 100 arance). I numeri negativi si scrivono sempre come cifre (es. -12).
 
+## Unità di misura
+
+Le unità di misura si scrivono lasciando sempre uno spazio dopo la misura: per alimentare il flash della macchina fotografica usiamo quattro pile da 1,5 V ciascuna.
+
 [Torna all'indice](README.md)
