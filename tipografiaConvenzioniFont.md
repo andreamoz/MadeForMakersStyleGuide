@@ -4,9 +4,9 @@ La tabella mostra le convenzioni base usate nei testi della collana. I nomi degl
 
 Tipo di elemento | Nome dello stile
 -----------------|-----------------
-<a name="combinazioneTasti"</a>Combinazione di tasti | Code carattere
+<a name="combinazioneTasti"></a>Combinazione di tasti | Code carattere
 <a name="definizione"></a>Definizione e descrizione di un termine o di un titolo | Definizione
-<a name="descrizioneElementoSoftware"</a>Descrizione di elementi del software | Testo corsivo
+<a name="descrizioneElementoSoftware"></a>Descrizione di elementi del software | Testo corsivo
 <a name="evidenza"></a>Parte di una frase da evidenziare | Testo corsivo
 <a name="linguaStraniera"></a>Testi in lingua straniera | Testo corsivo
 <a name="libro"></a>Titoli di libri | Testo corsivo
