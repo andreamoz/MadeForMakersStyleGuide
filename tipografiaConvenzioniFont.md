@@ -11,6 +11,7 @@ Tipo di elemento | Nome dello stile
 <a name="linguaStraniera"></a>Testi in lingua straniera | Testo corsivo
 <a name="libro"></a>Titoli di libri | Testo corsivo
 <a name="sezioneLibro"></a>Sezioni di libri | Testo corsivo
+<a name="librerie"></a>Nomi di librerie ! Code carattere
 <a name="nomiFile"></a>Nomi di file | Code carattere
 <a name="titoloDefinizione"></a>Termine di cui dare una definizione | Titolo definizione
 <a name="primaIstanzaNome"></a>Prima apparizione di un termine notevole | Testo bold
@@ -37,6 +38,9 @@ I titoli dei libri citati vanno messi *in corsivo* usando lo stile [Testo corsiv
 
 ## Sezioni di libri
 Quando si fa riferimento a una particolare sezione di un libro (anche del libro corrente) questa va indicata *in corsivo* usando lo stile [Testo Corsivo](sezioneLibro).
+
+## Librerie
+Quando ci si riferisce ai nomi di librerie software si utilizza lo stile [Code carattere](librerie).
 
 ## Nuovi termini
 Ogni volta che si introduce un termine significativo dobbiamo indicarlo in **grassetto** con lo stile [Testo bold](primaIstanzaNome).
